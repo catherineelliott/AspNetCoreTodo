@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AspNetCoreTodo",
+    "\\AspNetCoreTodo.UnitTests",
+    "\\AspNetCoreTodo.UnitTests\\bin",
+    "\\AspNetCoreTodo.UnitTests\\bin\\Debug",
+    "\\AspNetCoreTodo.UnitTests\\bin\\Debug\\netcoreapp2.2",
+    "\\AspNetCoreTodo.UnitTests\\obj"
+  ],
+  "SelectedNode": "\\AspNetCoreTodo.UnitTests\\bin\\Debug\\netcoreapp2.2",
+  "PreviewInSolutionExplorer": false
+}
